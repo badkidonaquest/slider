@@ -1,0 +1,16 @@
+.container {
+  width: 1300px;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slider__img {
+  margin-left: 1500px;
+}
+
+.slider__text {
+    display:inline-block;
+  font-size: 3px;
+  line-height: 1.5;
+}
